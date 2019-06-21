@@ -1,7 +1,7 @@
 # converting bulletin data for hypoDD
 
-fileinput = 'example1.txt'
-fileoutput = 'exampelout.pha'
+fileinput = 'station.txt'
+fileoutput = 'stationout.pha'
 
 file = open(fileinput,'r')
 baris = file.readlines()
