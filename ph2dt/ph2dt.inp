@@ -2,7 +2,7 @@
 * Input station file:
 stasiun.dat
 * Input phase file:
-yopiout.pha
+station.pha
 *MINWGHT: min. pick weight allowed [0]
 *MAXDIST: max. distance in km between event pair and stations [200]
 *MAXSEP: max. hypocentral separation in km [10]
@@ -11,7 +11,7 @@ yopiout.pha
 *MINOBS: min. number of links per pair saved [8]
 *MAXOBS: max. number of links per pair saved [20]
 *MINWGHT MAXDIST MAXSEP MAXNGH MINLNK MINOBS MAXOBS
-   0       1000     300     10     6      3     200
+   0       1000     300     20     6      3     200
 
 
 
