@@ -1,4 +1,4 @@
-Description of the short program hista2ddsta.
+Hista2ddsta Program.
 
 This converts "standard" hypoinverse station files to the abbreviated
 format used by hypoDD and its companion program ph2dt.  hista2ddsta
