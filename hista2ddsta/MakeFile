@@ -1,3 +1,5 @@
+#make Hista2ddsta File.
+
 CMD	= hista2ddsta
 #FC	= g77
 FC	= f77
